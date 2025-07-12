@@ -573,7 +573,7 @@ Partial Class PatientPage
         Panel8.Size = New Size(561, 26)
         Panel8.TabIndex = 11
         ' 
-        ' Form2
+        ' PatientPage
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
@@ -582,7 +582,7 @@ Partial Class PatientPage
         Controls.Add(Panel23)
         Controls.Add(Panel22)
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
-        Name = "Form2"
+        Name = "PatientPage"
         Text = "Patient"
         WindowState = FormWindowState.Maximized
         Panel1.ResumeLayout(False)

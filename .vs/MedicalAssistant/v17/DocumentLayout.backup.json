@@ -69,9 +69,9 @@
               "Title": "Application.Designer.vb",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\My Project\\Application.Designer.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\My Project\\Application.Designer.vb",
-              "ToolTip": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\My Project\\Application.Designer.vb*",
-              "RelativeToolTip": "MedicalAssistant\\My Project\\Application.Designer.vb*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "MedicalAssistant\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-12T07:43:01.462Z",
               "EditorCaption": ""
@@ -86,8 +86,7 @@
               "RelativeToolTip": "MedicalAssistant\\LanguageSelectionPage.vb",
               "ViewState": "AgIAAAEAAAAAAAAAAAAiwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-11T17:54:34.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T17:54:34.43Z"
             },
             {
               "$type": "Document",
