@@ -103,7 +103,7 @@ cd MedicalAssistant
 ### 🚀 Buttons & Links
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
-[![Security Details](https://img.shields.io/badge/Security%20Details-black?style=for-the-badge&logo=lock)](#encryption)
+[![Download Setup](https://img.shields.io/badge/Security%20Details-green?style=for-the-badge&logo=lock)](https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup)
 
 ---
 
