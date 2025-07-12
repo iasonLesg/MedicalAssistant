@@ -22,11 +22,11 @@ A simple, private, and multilingual app to manage patients and their visitations
 
 An old application I created just to manage **patients and visitations** in a doctor's office.
 
-- 💻 Local-first storage
-- 🔒 Patient data is encrypted with your password
-- 🌍 Multi-language support
-- 🗓️ Schedule and manage visitations
-- 📋 Add medication and diagnosis notes
+- 💻 Local-first storage  
+- 🔒 Patient data is encrypted with your password  
+- 🌍 Multi-language support  
+- 🗓️ Schedule and manage visitations  
+- 📋 Add medication and diagnosis notes  
 
 > ✅ **Completely free to use!**
 
@@ -34,60 +34,58 @@ An old application I created just to manage **patients and visitations** in a do
 
 ### 🔐 Encryption
 
-- Your data is **fully encrypted** using your **initial password**.
-- Data is **only stored locally** on your machine.
+- Your data is **fully encrypted** using your **initial password**.  
+- Data is **only stored locally** on your machine.  
 - ❗ _If you lose your password, there is no way to recover your patients' data._
 
 ---
 
 ### 🌟 Features
 
-- 👤 Store and view **patient records**
+- 👤 Store and view **patient records**  
 - 📅 Track **visitations** with:
-  - Date
-  - Medication
-  - Diagnosis / Progress Notes
-- 🧭 Clean UI to browse patients and schedules
-- 💬 Supports **30+ languages** (listed below)
+  - Date  
+  - Medication  
+  - Diagnosis / Progress Notes  
+- 🧭 Clean UI to browse patients and schedules  
+- 💬 Supports **30+ languages** (see list below)
 
 ---
 
 ### 🌍 Languages Supported
 
-<details>
-<summary>Click to expand</summary>
-
-- English
-- Greek
-- Spanish
-- French
-- German
-- Italian
-- Portuguese
-- Dutch
-- Russian
-- Chinese (Simplified & Traditional)
-- Japanese
-- Korean
-- Arabic
-- Hebrew
-- Turkish
-- Polish
-- Swedish
-- Norwegian
-- Danish
-- Finnish
-- Czech
-- Hungarian
-- Romanian
-- Thai
-- Vietnamese
-- Hindi
-- Indonesian
-- Malay
-- Ukrainian
-
-</details>
+| Language | Flag |
+|---------|------|
+| English | 🇬🇧 |
+| Greek   | 🇬🇷 |
+| Spanish | 🇪🇸 |
+| French  | 🇫🇷 |
+| German  | 🇩🇪 |
+| Italian | 🇮🇹 |
+| Portuguese | 🇵🇹 |
+| Dutch       | 🇳🇱 |
+| Russian     | 🇷🇺 |
+| Chinese (Simplified) | 🇨🇳 |
+| Chinese (Traditional) | 🇹🇼 |
+| Japanese   | 🇯🇵 |
+| Korean     | 🇰🇷 |
+| Arabic     | 🇸🇦 |
+| Hebrew     | 🇮🇱 |
+| Turkish    | 🇹🇷 |
+| Polish     | 🇵🇱 |
+| Swedish    | 🇸🇪 |
+| Norwegian  | 🇳🇴 |
+| Danish     | 🇩🇰 |
+| Finnish    | 🇫🇮 |
+| Czech      | 🇨🇿 |
+| Hungarian  | 🇭🇺 |
+| Romanian   | 🇷🇴 |
+| Thai       | 🇹🇭 |
+| Vietnamese | 🇻🇳 |
+| Hindi      | 🇮🇳 |
+| Indonesian | 🇮🇩 |
+| Malay      | 🇲🇾 |
+| Ukrainian  | 🇺🇦 |
 
 ---
 
@@ -99,4 +97,4 @@ git clone https://github.com/your-username/patient-manager.git
 
 # Run the application
 cd patient-manager
-# Instructions here based on your app setup
+# Follow your setup instructions here
