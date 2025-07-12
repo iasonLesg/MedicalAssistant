@@ -42,11 +42,10 @@ An old application I created just to manage **patients and visitations** in a do
 
 ### 🌟 Features
 
-- 👤 Store and view **patient records**  
+- 👤 Store and view **patient records**
+  - Search patients by Surname-name 
 - 📅 Track **visitations** with:
   - Date  
-  - Medication  
-  - Diagnosis / Progress Notes  
 - 🧭 Clean UI to browse patients and schedules  
 - 💬 Supports **30+ languages** (see list below)
 
