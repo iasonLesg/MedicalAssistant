@@ -98,3 +98,9 @@ git clone https://github.com/iasonLesg/MedicalAssistant.git
 # Run the application
 cd MedicalAssistant
 # Follow your setup instructions here
+
+
+---
+
+
+<p align="center"> <a href="https://github.com/iasonLesg/MedicalAssistant/raw/main/Setup/Medical_Assistant_Setup.exe" target="_blank"> <img src="https://img.shields.io/badge/Download%20EXE-Medical_Assistant-steelblue?style=for-the-badge&logo=windows" alt="Download EXE"> </a> </p> 
