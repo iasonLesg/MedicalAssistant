@@ -1,4 +1,4 @@
-<h1 align="center" style="color:steelblue;">🩺 Patient Manager App</h1>
+<h1 align="center" style="color:steelblue;">🩺 Medical Assistant</h1>
 
 <p align="center" style="color:black; font-size:18px;">
 A simple, private, and multilingual app to manage patients and their visitations in a doctor's office.
@@ -42,10 +42,11 @@ An old application I created just to manage **patients and visitations** in a do
 
 ### 🌟 Features
 
-- 👤 Store and view **patient records**
-  - Search patients by Surname-name 
+- 👤 Store and view **patient records**  
 - 📅 Track **visitations** with:
   - Date  
+  - Medication  
+  - Diagnosis / Progress Notes  
 - 🧭 Clean UI to browse patients and schedules  
 - 💬 Supports **30+ languages** (see list below)
 
@@ -53,38 +54,38 @@ An old application I created just to manage **patients and visitations** in a do
 
 ### 🌍 Languages Supported
 
-| Language | Flag |
-|---------|------|
-| English | 🇬🇧 |
-| Greek   | 🇬🇷 |
-| Spanish | 🇪🇸 |
-| French  | 🇫🇷 |
-| German  | 🇩🇪 |
-| Italian | 🇮🇹 |
-| Portuguese | 🇵🇹 |
-| Dutch       | 🇳🇱 |
-| Russian     | 🇷🇺 |
-| Chinese (Simplified) | 🇨🇳 |
-| Chinese (Traditional) | 🇹🇼 |
-| Japanese   | 🇯🇵 |
-| Korean     | 🇰🇷 |
-| Arabic     | 🇸🇦 |
-| Hebrew     | 🇮🇱 |
-| Turkish    | 🇹🇷 |
-| Polish     | 🇵🇱 |
-| Swedish    | 🇸🇪 |
-| Norwegian  | 🇳🇴 |
-| Danish     | 🇩🇰 |
-| Finnish    | 🇫🇮 |
-| Czech      | 🇨🇿 |
-| Hungarian  | 🇭🇺 |
-| Romanian   | 🇷🇴 |
-| Thai       | 🇹🇭 |
-| Vietnamese | 🇻🇳 |
-| Hindi      | 🇮🇳 |
-| Indonesian | 🇮🇩 |
-| Malay      | 🇲🇾 |
-| Ukrainian  | 🇺🇦 |
+| Language               | Flag |
+|------------------------|------|
+| English                | 🇬🇧 |
+| Greek                  | 🇬🇷 |
+| Spanish                | 🇪🇸 |
+| French                 | 🇫🇷 |
+| German                 | 🇩🇪 |
+| Italian                | 🇮🇹 |
+| Portuguese             | 🇵🇹 |
+| Dutch                  | 🇳🇱 |
+| Russian                | 🇷🇺 |
+| Chinese (Simplified)   | 🇨🇳 |
+| Chinese (Traditional)  | 🇹🇼 |
+| Japanese               | 🇯🇵 |
+| Korean                 | 🇰🇷 |
+| Arabic                 | 🇸🇦 |
+| Hebrew                 | 🇮🇱 |
+| Turkish                | 🇹🇷 |
+| Polish                 | 🇵🇱 |
+| Swedish                | 🇸🇪 |
+| Norwegian              | 🇳🇴 |
+| Danish                 | 🇩🇰 |
+| Finnish                | 🇫🇮 |
+| Czech                  | 🇨🇿 |
+| Hungarian              | 🇭🇺 |
+| Romanian               | 🇷🇴 |
+| Thai                   | 🇹🇭 |
+| Vietnamese             | 🇻🇳 |
+| Hindi                  | 🇮🇳 |
+| Indonesian             | 🇮🇩 |
+| Malay                  | 🇲🇾 |
+| Ukrainian              | 🇺🇦 |
 
 ---
 
@@ -92,13 +93,8 @@ An old application I created just to manage **patients and visitations** in a do
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/patient-manager.git
-
-
-<p align="center"> <a href="https://github.com/iasonLesg/MedicalAssistant/raw/main/Setup/Medical_Assistant_Setup.exe" target="_blank"> <img src="https://img.shields.io/badge/Download%20EXE-Medical_Assistant-steelblue?style=for-the-badge&logo=windows" alt="Download EXE"> </a> </p>
-
-
+git clone https://github.com/iasonLesg/MedicalAssistant.git
 
 # Run the application
-cd patient-manager
+cd MedicalAssistant
 # Follow your setup instructions here
