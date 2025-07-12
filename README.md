@@ -101,7 +101,6 @@ cd MedicalAssistant
 
 ---
 
-
 ### 🚀 Buttons & Links
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
