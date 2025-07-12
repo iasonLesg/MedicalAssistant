@@ -101,4 +101,22 @@ cd MedicalAssistant
 
 ---
 
-<p align="center"> <a href="https://github.com/iasonLesg/MedicalAssistant/raw/main/Setup/Medical_Assistant_Setup.exe" target="_blank"> <img src="https://img.shields.io/badge/Download%20EXE-Medical_Assistant-steelblue?style=for-the-badge&logo=windows" alt="Download EXE"> </a> </p> 
+
+### 🚀 Buttons & Links
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
+[![Security Details](https://img.shields.io/badge/Security%20Details-black?style=for-the-badge&logo=lock)](#encryption)
+
+---
+
+### 🙏 A Note from the Developer
+
+This app was created as a utility for managing patient records in a small clinic. It may be old, but it remains functional, privacy‑focused, and lightweight.
+
+Feel free to fork, use, and adapt it for your own practice. ✨
+
+---
+
+### 📄 License
+
+This project is licensed under the MIT License.
