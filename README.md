@@ -97,8 +97,7 @@ git clone https://github.com/iasonLesg/MedicalAssistant.git
 
 # Run the application
 cd MedicalAssistant
-
-
+```
 ---
 
 ### 🚀 Buttons & Links
