@@ -52,42 +52,42 @@ An old application I created just to manage **patients and visitations** in a do
 ---
 
 ### 🌍 Languages Supported
+<details>
+<summary>Click to expand</summary>
 
-| Language               | Flag |
-|------------------------|------|
-| English                | 🇬🇧 |
-| Greek                  | 🇬🇷 |
-| Spanish                | 🇪🇸 |
-| French                 | 🇫🇷 |
-| German                 | 🇩🇪 |
-| Italian                | 🇮🇹 |
-| Portuguese             | 🇵🇹 |
-| Dutch                  | 🇳🇱 |
-| Russian                | 🇷🇺 |
-| Chinese (Simplified)   | 🇨🇳 |
-| Chinese (Traditional)  | 🇹🇼 |
-| Japanese               | 🇯🇵 |
-| Korean                 | 🇰🇷 |
-| Arabic                 | 🇸🇦 |
-| Hebrew                 | 🇮🇱 |
-| Turkish                | 🇹🇷 |
-| Polish                 | 🇵🇱 |
-| Swedish                | 🇸🇪 |
-| Norwegian              | 🇳🇴 |
-| Danish                 | 🇩🇰 |
-| Finnish                | 🇫🇮 |
-| Czech                  | 🇨🇿 |
-| Hungarian              | 🇭🇺 |
-| Romanian               | 🇷🇴 |
-| Thai                   | 🇹🇭 |
-| Vietnamese             | 🇻🇳 |
-| Hindi                  | 🇮🇳 |
-| Indonesian             | 🇮🇩 |
-| Malay                  | 🇲🇾 |
-| Ukrainian              | 🇺🇦 |
+- English 🇬🇧  
+- Greek 🇬🇷  
+- Spanish 🇪🇸  
+- French 🇫🇷  
+- German 🇩🇪  
+- Italian 🇮🇹  
+- Portuguese 🇵🇹  
+- Dutch 🇳🇱  
+- Russian 🇷🇺  
+- Chinese (Simplified 🇨🇳 & Traditional 🇹🇼)  
+- Japanese 🇯🇵  
+- Korean 🇰🇷  
+- Arabic 🇸🇦  
+- Hebrew 🇮🇱  
+- Turkish 🇹🇷  
+- Polish 🇵🇱  
+- Swedish 🇸🇪  
+- Norwegian 🇳🇴  
+- Danish 🇩🇰  
+- Finnish 🇫🇮  
+- Czech 🇨🇿  
+- Hungarian 🇭🇺  
+- Romanian 🇷🇴  
+- Thai 🇹🇭  
+- Vietnamese 🇻🇳  
+- Hindi 🇮🇳  
+- Indonesian 🇮🇩  
+- Malay 🇲🇾  
+- Ukrainian 🇺🇦  
+
+</details>
 
 ---
-
 ### 📦 Download & Use
 
 ```bash
