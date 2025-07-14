@@ -24,15 +24,43 @@ A simple, private, and multilingual app to manage patients and their visitations
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
 [![Download Setup](https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock)](https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup)
 
-Note: After installing upon initial login you will be asked of your encryption code. Make sure you do not forget it because each time you will open the app you will be using the same code.
+Important Notice
 
-If you forget the code please navigate to :
+Upon first launch after installation, you will be prompted to set an encryption password.
+This password is used to encrypt and access your patient data each time you open the application.
 
-C:\Users\[Username]\AppData\Local\MedicalAssistant
+    🔐 Do not forget this password.
+    There is no recovery mechanism if it is lost, as all data is encrypted locally for your privacy.
 
-And there you will be able to delete your patient data (patients.json) and then rerun the application.
+🔄 Resetting the Application
 
-In the same way if you need to change the language delete the language file (languagesetup.txt) inside C:\Users\[Username]\AppData\Local\MedicalAssistant
+If you forget your password or need to reset the application:
+
+    Navigate to the following directory on your system:
+
+C:\Users\[YourUsername]\AppData\Local\MedicalAssistant
+
+Delete the file named:
+
+    patients.json
+
+    This will remove all existing patient data and allow you to start fresh on next launch.
+
+🌐 Changing the Language
+
+To change the selected language:
+
+    In the same directory:
+
+C:\Users\[YourUsername]\AppData\Local\MedicalAssistant
+
+Delete the file:
+
+languagesetup.txt
+
+Restart the application. You will be prompted to choose a new language.
+
+
 ---
 ### 📝 About the Project
 
