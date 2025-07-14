@@ -17,14 +17,12 @@ A simple, private, and multilingual app to manage patients and their visitations
 </p>
 
 ---
-<h3 align="center" style="color:gray;">🖥️ Supports Windows 32-bit</h3>
 
-<p align="center">
-  <a href="https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup">
-    <img src="https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock" alt="Download Setup">
-  </a>
-</p>
 
+### 🖥️ Windows 32 Build
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
+[![Download Setup](https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock)](https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup)
 ---
 ### 📝 About the Project
 
@@ -105,12 +103,6 @@ git clone https://github.com/iasonLesg/MedicalAssistant.git
 # Run the application
 cd MedicalAssistant
 ```
----
-
-### 🚀 Buttons & Links
-
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
-[![Download Setup](https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock)](https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup)
 
 ---
 
