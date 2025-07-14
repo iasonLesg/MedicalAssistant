@@ -66,6 +66,144 @@
     {"Ukrainian", "Українська"}
 }
 
+#Region "Form Names"
+
+    Public Shared Form_Name_Main As String() = {
+    "Medical Assistant",     ' English
+    "Ιατρικός Βοηθός",        ' Greek
+    "Asistente Médico",      ' Spanish
+    "Assistant Médical",     ' French
+    "Medizinischer Assistent", ' German
+    "Assistente Medico",     ' Italian
+    "Assistente Médico",     ' Portuguese
+    "Medisch Assistent",     ' Dutch
+    "Медицинский ассистент",  ' Russian
+    "医疗助手",               ' ChineseSimplified
+    "醫療助手",               ' ChineseTraditional
+    "医療助手",               ' Japanese
+    "의료 보조원",             ' Korean
+    "مساعد طبي",             ' Arabic
+    "עוזר רפואי",            ' Hebrew
+    "Tıbbi Asistan",         ' Turkish
+    "Asystent Medyczny",     ' Polish
+    "Medicinsk Assistent",   ' Swedish
+    "Medisinsk Assistent",   ' Norwegian
+    "Medicinsk Assistent",   ' Danish
+    "Lääketieteellinen Avustaja", ' Finnish
+    "Zdravotní asistent",    ' Czech
+    "Orvosi asszisztens",    ' Hungarian
+    "Asistent Medical",      ' Romanian
+    "ผู้ช่วยแพทย์",           ' Thai
+    "Trợ lý Y tế",           ' Vietnamese
+    "चिकित्सा सहायक",         ' Hindi
+    "Asisten Medis",         ' Indonesian
+    "Pembantu Perubatan",    ' Malay
+    "Медичний асистент"      ' Ukrainian
+}
+
+    Public Shared Form_Name_Patient As String() = {
+    "Patient",              ' English
+    "Ασθενής",               ' Greek
+    "Paciente",             ' Spanish
+    "Patient",              ' French
+    "Patient",              ' German
+    "Paziente",             ' Italian
+    "Paciente",             ' Portuguese
+    "Patiënt",              ' Dutch
+    "Пациент",              ' Russian
+    "病人",                  ' ChineseSimplified
+    "病人",                  ' ChineseTraditional
+    "患者",                  ' Japanese
+    "환자",                  ' Korean
+    "مريض",                 ' Arabic
+    "מטופל",                ' Hebrew
+    "Hasta",                ' Turkish
+    "Pacjent",              ' Polish
+    "Patient",              ' Swedish
+    "Pasient",              ' Norwegian
+    "Patient",              ' Danish
+    "Potilas",              ' Finnish
+    "Pacient",              ' Czech
+    "Beteg",                ' Hungarian
+    "Pacient",              ' Romanian
+    "ผู้ป่วย",               ' Thai
+    "Bệnh nhân",            ' Vietnamese
+    "मरीज़",                ' Hindi
+    "Pasien",               ' Indonesian
+    "Pesakit",              ' Malay
+    "Пацієнт"               ' Ukrainian
+}
+
+    Public Shared Form_Name_Language As String() = {
+    "Language",             ' English
+    "Γλώσσα",                ' Greek
+    "Idioma",               ' Spanish
+    "Langue",               ' French
+    "Sprache",              ' German
+    "Lingua",               ' Italian
+    "Língua",               ' Portuguese
+    "Taal",                 ' Dutch
+    "Язык",                 ' Russian
+    "语言",                  ' ChineseSimplified
+    "語言",                  ' ChineseTraditional
+    "言語",                  ' Japanese
+    "언어",                  ' Korean
+    "اللغة",               ' Arabic
+    "שפה",                 ' Hebrew
+    "Dil",                  ' Turkish
+    "Język",                ' Polish
+    "Språk",                ' Swedish
+    "Språk",                ' Norwegian
+    "Sprog",                ' Danish
+    "Kieli",                ' Finnish
+    "Jazyk",                ' Czech
+    "Nyelv",                ' Hungarian
+    "Limbă",                ' Romanian
+    "ภาษา",                 ' Thai
+    "Ngôn ngữ",            ' Vietnamese
+    "भाषा",                ' Hindi
+    "Bahasa",              ' Indonesian
+    "Bahasa",              ' Malay
+    "Мова"                 ' Ukrainian
+}
+
+    Public Shared Form_Name_Visitation As String() = {
+    "Visitation",           ' English
+    "Επίσκεψη",              ' Greek
+    "Visita",               ' Spanish
+    "Visite",               ' French
+    "Besuch",               ' German
+    "Visita",               ' Italian
+    "Visita",               ' Portuguese
+    "Bezoek",               ' Dutch
+    "Посещение",            ' Russian
+    "探视",                  ' ChineseSimplified
+    "探視",                  ' ChineseTraditional
+    "訪問",                  ' Japanese
+    "방문",                  ' Korean
+    "زيارة",               ' Arabic
+    "ביקור",               ' Hebrew
+    "Ziyaret",              ' Turkish
+    "Wizyta",               ' Polish
+    "Besök",                ' Swedish
+    "Besøk",                ' Norwegian
+    "Besøg",                ' Danish
+    "Vierailu",             ' Finnish
+    "Návštěva",             ' Czech
+    "Látogatás",            ' Hungarian
+    "Vizită",               ' Romanian
+    "การเยี่ยม",             ' Thai
+    "Chuyến thăm",         ' Vietnamese
+    "मुलाकात",              ' Hindi
+    "Kunjungan",            ' Indonesian
+    "Lawatan",              ' Malay
+    "Відвідування"          ' Ukrainian
+}
+
+#End Region
+
+#Region "Buttons"
+
     Public Shared save_Translations As String() = {
     "Save",               ' English
     "Αποθήκευση",         ' Greek
@@ -165,6 +303,10 @@
     "Видалити"            ' Ukrainian
 }
 
+#End Region
+
+#Region "Messages"
+
     Public Shared message1_Translations As String() = {
     "Enter password",                     ' English
     "Εισαγάγετε τον κωδικό πρόσβασης",    ' Greek
@@ -197,6 +339,10 @@
     "Masukkan kata laluan",               ' Malay
     "Введіть пароль"                      ' Ukrainian
 }
+
+#End Region
+
+#Region "Labels"
 
     Public Shared Search_Translation As String() = {
     "Search by patient's name",              ' English
@@ -594,4 +740,5 @@
     "Медикаментозне лікування"           ' Ukrainian
 }
 
+#End Region
 End Class

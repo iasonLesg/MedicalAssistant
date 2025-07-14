@@ -11,6 +11,7 @@ Public Class VisitationPage
     Sub New(ByRef Visitations As List(Of Patient_Visitation), Optional index As Integer = -1)
 
         InitializeComponent()
+        Me.Text = Language.Form_Name_Visitation(Language.Selectedlanguage)
         'INDEX >-1 Then we have opened a value
         Indexing = index
         If (Indexing <> -1) Then

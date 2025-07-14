@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\language.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\language.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\languageselectionpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\languageselectionpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\languageselectionpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\languageselectionpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\patientpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\patientpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\languageselectionpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\languageselectionpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\patientpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\patientpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\patientpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\patientpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\mainpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\language.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\language.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|solutionrelative:medicalassistant\\visitationpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EA79335-B2CA-4B77-B5A5-E978E3D084FC}|MedicalAssistant\\MedicalAssistant.vbproj|c:\\users\\bur\\desktop\\opensource\\medicalassistant\\medicalassistant\\medicalassistant\\saveload.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -57,7 +57,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,7 +65,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Application.Designer.vb",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\My Project\\Application.Designer.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\My Project\\Application.Designer.vb",
@@ -73,25 +73,24 @@
               "RelativeToolTip": "MedicalAssistant\\My Project\\Application.Designer.vb",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-12T07:43:01.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-12T07:43:01.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LanguageSelectionPage.vb",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\LanguageSelectionPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\LanguageSelectionPage.vb",
               "ToolTip": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\LanguageSelectionPage.vb",
               "RelativeToolTip": "MedicalAssistant\\LanguageSelectionPage.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-11T17:54:34.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LanguageSelectionPage.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\LanguageSelectionPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\LanguageSelectionPage.vb",
@@ -103,32 +102,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Language.vb",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\Language.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\Language.vb",
               "ToolTip": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\Language.vb",
               "RelativeToolTip": "MedicalAssistant\\Language.vb",
-              "ViewState": "AgIAAAMCAAAAAAAAAAAAABICAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-11T15:30:44.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "VisitationPage.vb",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\VisitationPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\VisitationPage.vb",
               "ToolTip": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\VisitationPage.vb",
               "RelativeToolTip": "MedicalAssistant\\VisitationPage.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswB0AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-10T19:14:15.685Z"
+              "WhenOpened": "2025-07-10T19:14:15.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "VisitationPage.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\VisitationPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\VisitationPage.vb",
@@ -152,20 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "PatientPage.vb",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\PatientPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\PatientPage.vb",
               "ToolTip": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\PatientPage.vb",
               "RelativeToolTip": "MedicalAssistant\\PatientPage.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-07-10T15:39:03.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PatientPage.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\PatientPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\PatientPage.vb",
@@ -189,19 +189,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "MainPage.vb",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\MainPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\MainPage.vb",
               "ToolTip": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\MainPage.vb",
               "RelativeToolTip": "MedicalAssistant\\MainPage.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-07-10T13:48:09.516Z"
+              "WhenOpened": "2025-07-10T13:48:09.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "MainPage.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Bur\\Desktop\\OpenSource\\MedicalAssistant\\MedicalAssistant\\MedicalAssistant\\MainPage.vb",
               "RelativeDocumentMoniker": "MedicalAssistant\\MainPage.vb",

@@ -4,7 +4,7 @@
     Sub New()
 
         InitializeComponent()
-
+        Me.Text = Language.Form_Name_Language(Language.Selectedlanguage)
         intializeLanguages()
     End Sub
 

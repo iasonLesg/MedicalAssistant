@@ -22,7 +22,7 @@ Public Class PatientPage
 
         'Call all components
         InitializeComponent()
-
+        Me.Text = Language.Form_Name_Patient(Language.Selectedlanguage)
         'Initialize any components value
         Initialize_Label_ICONS_Dimentions()
         Initialize_Add_Edit()

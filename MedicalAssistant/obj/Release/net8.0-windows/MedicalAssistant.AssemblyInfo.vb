@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("MedicalAssistant"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6115cf0d5b3cd5bffad20ce41ae15793fcbf97a"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6786175e2b6c88af7d1345004d9a6aa5c1ba7d1e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("MedicalAssistant"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("MedicalAssistant"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

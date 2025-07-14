@@ -17,3 +17,6 @@ build_property.RootNamespace = MedicalAssistant
 build_property.ProjectDir = C:\Users\Bur\Desktop\OpenSource\MedicalAssistant\MedicalAssistant\MedicalAssistant\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

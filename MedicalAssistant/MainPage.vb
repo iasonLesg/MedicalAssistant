@@ -28,13 +28,16 @@ Public Class MainPage
 
     Sub New()
 
+
+
+
         'Pre initialize
         CreateSaveDirectory()
         GetLanguage()
 
         'Designer components create
         InitializeComponent()
-
+        Me.Text = Language.Form_Name_Main(Language.Selectedlanguage)
 
         setLanguage()
         getPasssword()

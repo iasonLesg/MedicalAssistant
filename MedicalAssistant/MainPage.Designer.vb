@@ -176,7 +176,7 @@ Partial Class MainPage
         PictureBox1.TabStop = False
         PictureBox1.Visible = False
         ' 
-        ' Form1
+        ' MainPage
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
@@ -187,7 +187,7 @@ Partial Class MainPage
         Controls.Add(LinkLabel1)
         Controls.Add(Panel1)
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
-        Name = "Form1"
+        Name = "MainPage"
         Text = "Medical Assistant"
         WindowState = FormWindowState.Maximized
         Panel1.ResumeLayout(False)
