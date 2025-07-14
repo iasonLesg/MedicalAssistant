@@ -90,6 +90,8 @@ An old application I created just to manage **patients and visitations** in a do
 ---
 ### 📦 Download & Use
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
+
 ```bash
 # Clone the repository
 git clone https://github.com/iasonLesg/MedicalAssistant.git
@@ -102,7 +104,6 @@ cd MedicalAssistant
 
 ### 🖥️ Windows 32 Build
 
-[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
 [![Download Setup](https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock)](https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup)
 
 ⚠️Important Notice
