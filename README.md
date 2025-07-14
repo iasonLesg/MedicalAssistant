@@ -23,6 +23,16 @@ A simple, private, and multilingual app to manage patients and their visitations
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-steelblue?style=for-the-badge&logo=github)](https://github.com/iasonLesg/MedicalAssistant)
 [![Download Setup](https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock)](https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup)
+
+Note: After installing upon initial login you will be asked of your encryption code. Make sure you do not forget it because each time you will open the app you will be using the same code.
+
+If you forget the code please navigate to :
+
+C:\Users\[Username]\AppData\Local\MedicalAssistant
+
+And there you will be able to delete your patient data (patients.json) and then rerun the application.
+
+In the same way if you need to change the language delete the language file (languagesetup.txt) inside C:\Users\[Username]\AppData\Local\MedicalAssistant
 ---
 ### 📝 About the Project
 
