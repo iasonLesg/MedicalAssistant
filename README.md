@@ -102,7 +102,7 @@ cd MedicalAssistant
 
 ---
 
-### 🖥️ Windows 32 Build
+### 🖥️ Windows 32 Setup
 
 [![Download Setup](https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock)](https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup)
 
