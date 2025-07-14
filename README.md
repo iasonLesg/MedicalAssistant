@@ -17,7 +17,15 @@ A simple, private, and multilingual app to manage patients and their visitations
 </p>
 
 ---
+<h3 align="center" style="color:gray;">🖥️ Supports Windows 32-bit</h3>
 
+<p align="center">
+  <a href="https://github.com/iasonLesg/MedicalAssistant/tree/main/Setup">
+    <img src="https://img.shields.io/badge/Download%20Setup-mediumseagreen?style=for-the-badge&logo=lock" alt="Download Setup">
+  </a>
+</p>
+
+---
 ### 📝 About the Project
 
 An old application I created just to manage **patients and visitations** in a doctor's office.
